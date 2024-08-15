@@ -13,3 +13,4 @@
 
 ## Lessons
 - 01: (ทวน) Object oriented programming
+- 02: (ทวน) Inheritance, Exception Handling
