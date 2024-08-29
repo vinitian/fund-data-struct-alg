@@ -15,3 +15,4 @@
 - 01: (ทวน) Object oriented programming
 - 02: (ทวน) Inheritance, Exception Handling
 - 03: algorithm analysis, Big-O notation, Big-Theta-notation
+- 04: list - implemented as Array, LinkedList (but lab is DoublyLinkedList)
