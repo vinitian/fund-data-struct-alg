@@ -2,7 +2,7 @@
 
 ## Info
 * Y2T1
-* Instructor: Ajarn Miri (not sure)
+* Instructor: Ajarn Miri, Aj. Vishnu Kotrajaras (วิษณุ โคตรจรัส)
 * Language: Java
 
 ## Links
