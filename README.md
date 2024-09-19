@@ -18,3 +18,4 @@
 - 04: list - implemented as Array, LinkedList (but lab is DoublyLinkedList)
 - 05: list (continued)
 - 06: stack
+- 07: queue, DeQ (double ended queue)
