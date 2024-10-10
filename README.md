@@ -19,3 +19,6 @@
 - 05: list (continued)
 - 06: stack
 - 07: queue, DeQ (double ended queue)
+- 08: *midterm*
+- 09: binary tree, binary search tree
+- 10: binary search tree (continued)
