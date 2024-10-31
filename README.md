@@ -24,3 +24,4 @@
 - 10: binary search tree (continued)
 - 11: hash table
 - 12: sorting (bubble sort, insertion sort, selection sort, merge sort)
+- 13: sorting (quick sort, bucket sort)
